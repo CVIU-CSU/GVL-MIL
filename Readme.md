@@ -2,6 +2,8 @@
 
 > Generative Vision-Language Multiple Instance Learning for Weakly Supervised Neonatal Fundus Screening and Reporting
 
+[paper](https://openaccess.thecvf.com/content/CVPR2026F/papers/Zhang_Generative_Vision-Language_Multiple_Instance_Learning_for_Weakly_Supervised_Neonatal_Fundus_CVPRF_2026_paper.pdf)
+
 ## Framework
 ![](./assets/main_framework_01.png)
 
