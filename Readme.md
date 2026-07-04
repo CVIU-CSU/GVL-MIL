@@ -89,3 +89,15 @@ python mil/gvlmil_main.py
 
 ### 3. Results
 ![](./assets/modality_comparison_simple.png)
+
+### Citation
+If you find it useful for your your research and applications, please cite using this BibTeX:
+```bibtex
+@inproceedings{zhang2026generative,
+  title={Generative Vision-Language Multiple Instance Learning for Weakly Supervised Neonatal Fundus Screening and Reporting},
+  author={Zhang, Xiao and Tan, Guangshuang and Hu, Jie and Kan, Shichao and Jiang, Bing and Liang, Yixiong},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={5190--5200},
+  year={2026}
+}
+```
